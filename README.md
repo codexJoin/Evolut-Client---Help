@@ -11,7 +11,7 @@ Before starting, make sure you have met the following requirements:
 * You have a machine `<Windows x64 Bits>`.
 * You are running Evolut Client and League of Legends as administrator.
 
-# Updated Offset Hash - 2022-01-08
+# Updated Offset Hash - 2022-01-29
 <details>
   <summary><b>Show Updated Offset Hash</b></summary>
   
