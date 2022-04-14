@@ -2,6 +2,13 @@
 
 ---
 
+## 6.3 (2022-04-13)
+
+### Update
+- Update Skin Changer to Game Version 12.7
+### Fixed
+- Fixed champions with second form, like elise, nidalle and others.
+
 ## 6.1 (2022-02-27)
 
 ### New
