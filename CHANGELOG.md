@@ -9,7 +9,7 @@
 - Support for replay mode.
 
 ### Update
-- Update Skin Changer to Game Version 12.8
+- Update Skin Changer to Game Version 12.9
 - Update Evolut Client Injector.
 - Update Evolut Client Starter - Now is loading more fast.
 
