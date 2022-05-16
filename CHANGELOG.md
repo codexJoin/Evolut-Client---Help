@@ -2,6 +2,27 @@
 
 ---
 
+## 6.4 (2022-05-16)
+
+### Added
+- Support for spectator mode.
+- Support for replay mode.
+
+### Update
+- Update Skin Changer to Game Version 12.8
+- Update Evolut Client Injector.
+- Update Evolut Client Starter - Now is loading more fast.
+
+### Fixed
+- Fixed error "Failed to call ntdll.dll"
+- Fixed Crash in Game
+- Fixed window size for many users with NVIDIA drivers.
+
+### Removed
+- (Other players settings) - Disabled temporary because an inssue with AMD users. When i fix this i will enable again.
+- (Offset Hash) - To improvement Evolut Skin Loading.
+
+
 ## 6.3 (2022-04-13)
 
 ### Update
